@@ -1,3 +1,4 @@
 # Fake-News-Detector
 Language == Python
-Download (news.csv)[https://spaces.hightail.com/space/eWaDbkNZnJ]
+<br>
+Download Dataset [news.csv](https://spaces.hightail.com/space/eWaDbkNZnJ)
